@@ -1,2 +1,3 @@
 # BolumSonuCalismasi
-Bölüm Sonu Çalışması
+Bölüm Sonu Çalışması Tamamlandı.
+
